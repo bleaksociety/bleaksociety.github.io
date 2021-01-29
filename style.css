@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lora);
 body,
 main::before {
-  background: rgb(148, 102, 255);
+  background: rgba(0, 255, 149, 0.685);
 }
 
 main {
