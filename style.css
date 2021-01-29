@@ -1,14 +1,14 @@
 @import url(https://fonts.googleapis.com/css?family=Lora);
 body,
 main::before {
-  background: url(https://bleaksociety.com/assets/background.jpg) 0/cover fixed;
+  background: rgb(148, 102, 255);
 }
 
 main {
   margin: 100px auto;
   position: relative;
   padding: 10px 5px;
-  background: rgba(128, 128, 128, 0.185);
+  background: rgba(49, 49, 49, 0.781);
   font-size: 20px;
   font-family: "Lora", serif;
   line-height: 1.5;
